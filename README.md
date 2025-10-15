@@ -19,7 +19,7 @@ ChemMLP is a graphical user interface (GUI) tool for predicting molecular proper
 - **Figure 1**: Main GUI window showing the menu bar.
   <image-card alt="Main GUI" src="figures/train.png" ></image-card>
 - **Figure 2**: Dialog for selecting a training CSV file.
-  <image-card alt="Insert Train Dialog" src="figures/figure2.png" ></image-card>
+  <image-card alt="Insert Train Dialog" src="figures/train.png" ></image-card>
 
 ### 2. Inserting Features
 - After loading a dataset, select features (e.g., molecular descriptors) and the target (e.g., CCS) in the feature selection interface.
