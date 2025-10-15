@@ -25,7 +25,7 @@ ChemMLP is a graphical user interface (GUI) tool for predicting molecular proper
 - After loading a dataset, select features (e.g., molecular descriptors) and the target (e.g., CCS) in the feature selection interface.
 - Click `Insert` to confirm feature columns (e.g., SMILES, mass, etc.).
 - **Figure 3**: Feature selection interface with columns highlighted.
-  <image-card alt="Feature Insertion" src="figures/figure3.png" ></image-card>
+  <image-card alt="Feature Insertion" src="figures/feature.png" ></image-card>
 
 ### 3. Selecting a Model (Regression or NN)
 - Navigate to the `Models` menu to choose a model type.
