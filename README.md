@@ -53,9 +53,8 @@ ChemMLP is a graphical user interface (GUI) tool designed to predict molecular p
 ### 5. Saved Data
 - The predicted target and output results will be saved in the same directory.
 
-## Citation
-Ebrahimi, S., et al. (2025). Supervised Machine Learning and Graph Neural Networks to Predict Collision Cross-Section Values of Aquatic Dissolved Organic Compounds. Submitted to Journal of the American Society for Mass Spectrometry (JASMS).
-
+## Citation (Will be updated)
+Ebrahimi, S., et al. (2025). Supervised Machine Learning and Graph Neural Networks to Predict Collision Cross-Section Values of Aquatic Dissolved Organic Compounds. 
 ## Contact
 sa.ebrahimi@gmail.com
 
