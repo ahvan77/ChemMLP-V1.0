@@ -4,8 +4,16 @@ ChemMLP is a graphical user interface (GUI) tool designed to predict molecular p
 - This guide provides instructions for uploading data, selecting a model, and obtaining results. Additional features are available in the software but are not detailed here. The software is currently under development to include further enhancements.
 
 ## Downloads
-- **Executable**: Download `ChemMLP.zip` from [Releases](https://github.com/ahvan77/ChemMLP-V1.0/releases) for Windows.
-- **Extract File**: Extract `ChemMLP.zip`, which contains the executable file and a 'Data' folder with an example dataset for carbohydrates.
+- **Executable**: Download `ChemMLP.exe` from [Releases](https://github.com/ahvan77/ChemMLP-V1.0/releases/latest) for Windows.
+- **Unzip**: The executable file and 'Data' folder (~500MB) are split into parts and stored in the [Zip File directory](https://github.com/ahvan77/ChemMLP-V1.0/tree/main/Zip%20File). Download all `ChemMLP_part*.zip` files:
+  1. Visit the [Zip File directory](https://github.com/ahvan77/ChemMLP-V1.0/tree/main/Zip%20File).
+  2. Download each `ChemMLP_part*.zip` file (e.g., `ChemMLP_part.zip`, `Data_examples_part.zip002`, etc.).
+  3. Combine the files using 7-Zip or WinRAR:
+     - Install 7-Zip from [https://www.7-zip.org/](https://www.7-zip.org/) or download WinRAR.
+     - Place all downloaded parts in a single folder on your computer.
+     - Right-click `ChemMLP_part.zip` > 7-Zip or WinRAR > "Extract Here".
+     - This will recreate the original `ChemMLP.zip` containing the 'Data' folder with example datasets (e.g., carbohydrates).
+- **Extract File**: After combining, extract `ChemMLP.zip` to access the executable file and the 'Data' folder, which includes an example dataset for carbohydrates.
 - **Execute File**: Run `ChemMLP.exe`.
 
 ## Usage Guide with Figures
