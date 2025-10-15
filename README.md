@@ -5,9 +5,9 @@ ChemMLP is a graphical user interface (GUI) tool designed to predict molecular p
 
 ## Downloads
 - **Executable**: Download `ChemMLP.exe` from [Releases](https://github.com/ahvan77/ChemMLP-V1.0/releases/latest) for Windows.
-- **Unzip**: The executable file and 'Data' folder (~500MB) are split into parts and stored in the [Zip File directory](https://github.com/ahvan77/ChemMLP-V1.0/tree/main/Zip%20File). Download all `ChemMLP_part*.zip` files:
+- **Unzip**: The executable file and 'Data' folder (~500MB) are split into parts and stored in the [Zip File directory](https://github.com/ahvan77/ChemMLP-V1.0/tree/main/Zip%20File). Download all `ChemMLP_part.zip*` files:
   1. Visit the [Zip File directory](https://github.com/ahvan77/ChemMLP-V1.0/tree/main/Zip%20File).
-  2. Download each `ChemMLP_part*.zip` file (e.g., `ChemMLP_part.zip`, `Data_examples_part.zip002`, etc.).
+  2. Download each `ChemMLP_part.zip*` file (e.g., `ChemMLP_part.zip`, `Data_examples_part.zip002`, etc.).
   3. Combine the files using 7-Zip or WinRAR:
      - Install 7-Zip from [https://www.7-zip.org/](https://www.7-zip.org/) or download WinRAR.
      - Place all downloaded parts in a single folder on your computer.
