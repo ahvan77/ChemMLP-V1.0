@@ -18,7 +18,7 @@ ChemMLP is a graphical user interface (GUI) tool for predicting molecular proper
 - Go to `File > New > Insert > Train` to load a training dataset (e.g., `carbohydrate_dataset.csv` from `Data_examples.zip`).
 - Use `File > New > Insert > Predict` to load a prediction file with the same feature structure.
 - **Figure 1**: Main GUI window showing the menu bar.
-  <image-card alt="Main GUI (& Train Dialog)" src="train.png" ></image-card>
+  <image-card alt="Main GUI (& Train Dialog)" src="ChemMLP-V1.0/train.png" ></image-card>
 - **Figure 2**: Dialog for selecting a training CSV file.
   <image-card alt="Insert Predict Dialog" src="figures/predict.png" ></image-card>
 
