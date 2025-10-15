@@ -11,7 +11,7 @@ This directory contains the Python source code for the machine learning and Grap
 - `GBR.py`: Implementation of Gradient Boosting Regression.
 - `RF.py`: Implementation of Random Forest (RF) regression.
 - `KNR.py`: Implementation of K-Nearest Neighbors (KNN) regression.
-- `VR.py`: Implementation of Variational Regression.
+- `VR.py`: Implementation of Voting Regression.
 - `ANNew.py`: Implementation of Artificial Neural Networks for SMILES-based data.
 - `GNN_chem.py`: Implementation of Graph Neural Networks for SMILES-based data.
 
