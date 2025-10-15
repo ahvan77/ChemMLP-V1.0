@@ -13,7 +13,7 @@ This directory contains the Python source code for the machine learning and Grap
 - `KNR.py`: Implementation of K-Nearest Neighbors (KNN) regression.
 - `VR.py`: Implementation of Variational Regression.
 - `ANNew.py`: Implementation of Artificial Neural Networks for SMILES-based data.
-- `GNN.py`: Implementation of Graph Neural Networks for SMILES-based data.
+- `GNN_chem.py`: Implementation of Graph Neural Networks for SMILES-based data.
 
 ## Usage
 These scripts represent the core model implementations but require the complete ChemMLP environment to run. To use them:
