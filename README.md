@@ -1,6 +1,7 @@
 # ChemMLP: GUI for Supervised Machine Learning and Graph Neural Networks
 
 ChemMLP is a graphical user interface (GUI) tool for predicting molecular properties (e.g., Collision Cross-Section (CCS) values) using supervised machine learning (e.g., VR, RF, SVR, Lasso) and Graph Neural Networks (GNNs). This tool supports the manuscript submitted to JASMS (Ebrahimi, S., et al., 2025).
+- In this instruction we have provided the method to upload data and choose a model and get the results. There are more options with this software which is not explained here. However, the software is in progress to add other 
 
 ## Downloads
 - **Executable**: Download `ChemMLP.exe` from [Releases](https://github.com/[yourusername]/ChemMLP/releases/latest) for Windows.
